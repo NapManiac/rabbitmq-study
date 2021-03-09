@@ -1,0 +1,5 @@
+spring:
+  rabbitmq:
+    username: root
+    password: root
+    addresses: 192.168.119.128:5672, 192.168.119.129:5672
